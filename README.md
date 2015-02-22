@@ -1,7 +1,7 @@
 
 # Project about loading, manipulating and summarising information from datasets regarding sensor information from Samsung Galaxy II 
 
-This project is done as part of the course Getting and Cleaning Data from Johns Hopkins University and is based on the Human Activity Recognition Using Smartphones Data Set http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+This project is done as part of the course Getting and Cleaning Data from Johns Hopkins University and is based on the Human Activity Recognition Using Smartphones Data Set Experiment http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 To carry out the operation set out by the program run_analysis.R there are a few conditions that have to be met:
 
