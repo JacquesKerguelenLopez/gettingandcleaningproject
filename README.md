@@ -10,7 +10,7 @@ To carry out the operation set out by the program run_analysis.R there are a few
 
 Then you can run the run_analysis.R file to perform the analysis.
 
-The output of the data will be in the file averages.txt in the working directory
+The output of the data will be in the file averages.txt in the working directory.
 
 # Program (run_analysis.R) algorithm
 Note: check out the Codebook for explanation of the different datasets used in the algorithm.
