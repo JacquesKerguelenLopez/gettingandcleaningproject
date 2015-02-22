@@ -12,7 +12,8 @@ Then you can run the run_analysis.R file to perform the analysis.
 
 The output of the data will be in the file averages.txt in the working directory
 
-# run_analysis.R algorithm
+# Program (run_analysis.R) algorithm
+Note: check out the Codebook for explanation of the different datasets used in the algorithm.
 
 1. The datasets for training and testing mode were binded together adding information about activity name and ID of the volunteer performing the movements in each of the observations.
 2. From this complete dataset, columns that have to do with mean and standard deviation were extracted and information about their corresponding subject number and activity name were added.
