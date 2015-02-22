@@ -16,7 +16,7 @@ The output of the data will be in the file averages.txt in the working directory
 Note: check out the Codebook for explanation of the different datasets used in the algorithm.
 
 1. The datasets for training and testing mode were binded together adding information about activity name and ID of the volunteer performing the movements in each of the observations.
-2. From this complete dataset, columns that have to do with mean and standard deviation were extracted and information about their corresponding subject number and activity name were added.
+2. From this complete dataset, columns that have to do with mean and standard deviation were extracted.
 3. Then, the format of the previous dataset was changed to present the information of the 561 organized according to combinations of activity names and subject numbers.
 4. For each combination of activity name, subject number and certain feature, the average of the value of that feature was calculated. Creating an array of 3 dimensions.
 5. That array was converted into narrow form to show the information in an organized manner.
