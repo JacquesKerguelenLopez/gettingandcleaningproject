@@ -22,4 +22,4 @@ averages.txt is the file produced by run_analysis.R and has 4 columns which are 
 1. Activity Name: Whether the subject was walking, walking upstairs, walking downstairs, sitting, standing or laying.
 2. Subject Number: ID of the subject.
 3. Variable: Feature in question.
-4. Mean: Average of the value of certain feature corresponding to a certain combination of activity name and subject number.
+4. Mean: Average of the value of a feature corresponding to a certain combination of activity name and subject number.
