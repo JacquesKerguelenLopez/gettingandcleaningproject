@@ -17,7 +17,7 @@ This data was organized into different files:
 8. subject_test.txt: the ID numbers of each of the volunteers that correspond to each line of X_test.txt.
 
 # Final product description
-This table has four columns:
+averages.txt is the file produced by run_analysis.R and has 4 columns which are described below: 
 
 1. Activity Name: Whether the subject was walking, walking upstairs, walking downstairs, sitting, standing or laying.
 2. Subject Number: ID of the subject.
